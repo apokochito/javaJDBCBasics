@@ -1,4 +1,4 @@
-package com.test.mongo.model;
+package com.test.postgresql.model;
 
 import lombok.Data;
 

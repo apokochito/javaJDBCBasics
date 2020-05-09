@@ -1,4 +1,4 @@
-package com.test.mongo;
+package com.test.postgresql;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
