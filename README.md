@@ -10,3 +10,5 @@
   - Set environment variables for bin and lib folder (windows)
   - "psql -U postgres postgres" in terminal
   - Postgresql Driver Quick start
+
+- Redis (**redis branch**)
