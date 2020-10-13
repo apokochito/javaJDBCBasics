@@ -1,6 +1,6 @@
 # javaJDBCBasics
 
-- MongoDB (**mongo branch**)
+- MongoDB (**master branch**)
 
   - Mongo Cluster to manage database
   - First way: spring-data-mongodb / properties file
